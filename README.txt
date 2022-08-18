@@ -1,5 +1,7 @@
 Linear Interpolation Simulator
 
+Run .jar with java 
+
 ⁍ Click to add dot.
 ⁍ Right-click to remove dot.
 ⁍ Click and drag slider to interpolate between dots.
