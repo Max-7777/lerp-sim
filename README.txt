@@ -1,14 +1,15 @@
 Linear Interpolation Simulator!
 
-Run the .jar with a recent version of java (17 or 20) 
+Run the jar with a recent version of java (17 or 20) 
+https://www.oracle.com/java/technologies/downloads/
 
-⁍ Click to add dot.
-⁍ Right-click to remove dot.
+⁍ Click to add a dot.
+⁍ Right click to remove a dot.
 ⁍ Use the slider in the bottom right to interpolate the dots.
 
 ⁍ 'r' to delete all dots.
 ⁍ '1-5' to change theme.
-⁍ 'f' fps.
+⁍ 'f' to show fps.
 
 https://github.com/Max-7777
 https://processing.org/
