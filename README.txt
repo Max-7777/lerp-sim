@@ -11,5 +11,8 @@ https://www.oracle.com/java/technologies/downloads/
 ⁍ '1-5' to change theme.
 ⁍ 'f' to show fps.
 
+(This program was made using Processing, more info here: https://processing.org/)
+
+Please contact for questions or feedback! maxcontact5555@gmail.com
+
 https://github.com/Max-7777
-https://processing.org/
