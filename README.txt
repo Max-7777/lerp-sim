@@ -1,6 +1,6 @@
 Linear Interpolation Simulator!
 
-Run the jar with a recent version of java (17 or 20) 
+Run the jar with a recent version of java (17 or later) 
 https://www.oracle.com/java/technologies/downloads/
 
 ⁍ Click to add a dot.
