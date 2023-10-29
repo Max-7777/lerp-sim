@@ -1,6 +1,8 @@
 ## Linear Interpolation Simulator!
 ![](doc/lerp_gif_4.gif)
+
 ![](doc/lerp_gif_2.gif)
+
 ![](doc/lerp_gif_3.gif)
 
 ## Instructions
