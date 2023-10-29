@@ -1,5 +1,7 @@
 ## Linear Interpolation Simulator!
-![](lerp_gif.gif)
+![](doc\\lerp_gif.gif)
+![](doc\\lerp_gif_2.gif)
+![](docclerp_gif_3.gif)
 
 ## Instructions
 Run the jar with a recent version of java (17 or later) 
