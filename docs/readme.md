@@ -20,7 +20,5 @@ https://www.oracle.com/java/technologies/downloads/
 (This program was made using Processing, more info here: https://processing.org/)
 
 Please contact for questions or feedback! [maxcontact5@keemail.me](mailto:maxcontact5@keemail.me)
-
-https://youtu.be/eStB3qgWo1g?t=40
-
+https://youtu.be/eStB3qgWo1g?t=41
 https://github.com/Max-7777
